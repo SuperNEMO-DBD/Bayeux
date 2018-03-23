@@ -11,6 +11,7 @@ var searchData=
   ['list_5fno_5fset',['LIST_NO_SET',['../classdatatools_1_1configuration_1_1variant__registry.html#a7e30d738af6bc7091ef5221d8a66a451ae67dfef40b38940d5544f8f68b860e6b',1,'datatools::configuration::variant_registry']]],
   ['list_5fno_5funset',['LIST_NO_UNSET',['../classdatatools_1_1configuration_1_1variant__registry.html#a7e30d738af6bc7091ef5221d8a66a451a9fc479e2572de5ecda72890506d1d2f5',1,'datatools::configuration::variant_registry']]],
   ['list_5fno_5fvariants',['LIST_NO_VARIANTS',['../classdatatools_1_1configuration_1_1variant__registry.html#a7e30d738af6bc7091ef5221d8a66a451a906e73e4001919d31c39ef0df3ea448f',1,'datatools::configuration::variant_registry']]],
+  ['list_5franked',['LIST_RANKED',['../classdatatools_1_1configuration_1_1variant__registry.html#a7e30d738af6bc7091ef5221d8a66a451aee51a38bff4b6dbe812751a2b58c4d26',1,'datatools::configuration::variant_registry']]],
   ['load_5ferror',['LOAD_ERROR',['../classmctools_1_1simulated__data__reader.html#a363aa620534fe51f5ed159dc31de325ba227646f1ec8cd409b693d7f16c39b7ea',1,'mctools::simulated_data_reader']]],
   ['load_5ffatal',['LOAD_FATAL',['../classmctools_1_1simulated__data__reader.html#a363aa620534fe51f5ed159dc31de325ba8ffae4330100382dbbf194d632920135',1,'mctools::simulated_data_reader']]],
   ['load_5fok',['LOAD_OK',['../classmctools_1_1simulated__data__reader.html#a363aa620534fe51f5ed159dc31de325ba1d0bc2a27775ac41da4e6eecc8945816',1,'mctools::simulated_data_reader']]],

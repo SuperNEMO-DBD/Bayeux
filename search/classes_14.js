@@ -16,7 +16,8 @@ var searchData=
   ['urn_5frecord',['urn_record',['../structdatatools_1_1urn__db__service_1_1urn__record.html',1,'datatools::urn_db_service']]],
   ['urn_5fto_5fpath',['urn_to_path',['../classdatatools_1_1urn__to__path.html',1,'datatools']]],
   ['urn_5fto_5fpath_5fresolver_5fservice',['urn_to_path_resolver_service',['../classdatatools_1_1urn__to__path__resolver__service.html',1,'datatools']]],
-  ['utils',['utils',['../classgenbb_1_1utils.html',1,'genbb::utils'],['../structgenvtx_1_1utils.html',1,'genvtx::utils']]],
+  ['utils',['utils',['../classgenbb_1_1utils.html',1,'genbb']]],
+  ['utils',['utils',['../structgenvtx_1_1utils.html',1,'genvtx']]],
   ['utils_5fcut',['utils_cut',['../classdpp_1_1utils__cut.html',1,'dpp']]],
   ['utils_5fmodule',['utils_module',['../classdpp_1_1utils__module.html',1,'dpp']]]
 ];

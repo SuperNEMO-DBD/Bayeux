@@ -7,6 +7,8 @@ var searchData=
   ['vector_5f2d',['vector_2d',['../namespacegeomtools.html#a228ed39da627c5d477b64ba5ad681bda',1,'geomtools']]],
   ['vector_5f3d',['vector_3d',['../namespacegeomtools.html#afae2ac02e16b8d2777012e48b9633476',1,'geomtools']]],
   ['vertex_5fcol_5ftype',['vertex_col_type',['../namespacegeomtools.html#aa87419750f95916d5a153a083164a0ae',1,'geomtools']]],
+  ['vertex_5fiter_5ft',['vertex_iter_t',['../classdatatools_1_1dependency__graph.html#af4b244231d41878d896676c13db63a7e',1,'datatools::dependency_graph']]],
+  ['vertex_5ft',['vertex_t',['../classdatatools_1_1dependency__graph.html#a1b682a065c12402e023491ed5aaa2da1',1,'datatools::dependency_graph']]],
   ['vertices_5fcol_5ftype',['vertices_col_type',['../classgeomtools_1_1tessellated__solid.html#a67cc24f4560e73c59805dbafec542942',1,'geomtools::tessellated_solid']]],
   ['vg_5fdict_5ftype',['vg_dict_type',['../namespacegenvtx.html#aa56725065ff7bb3846bb9b545425f7e6',1,'genvtx']]],
   ['vg_5fhandle_5ftype',['vg_handle_type',['../namespacegenvtx.html#ad204d52fdbca0ec3e25da84735a9639b',1,'genvtx']]],

@@ -6,6 +6,7 @@ var searchData=
   ['g4',['g4',['../namespacemctools_1_1g4.html',1,'mctools']]],
   ['materials',['materials',['../namespacematerials.html',1,'']]],
   ['mctools',['mctools',['../namespacemctools.html',1,'']]],
+  ['my',['my',['../namespacemy.html',1,'']]],
   ['mygsl',['mygsl',['../namespacemygsl.html',1,'']]],
   ['signal',['signal',['../namespacemctools_1_1signal.html',1,'mctools']]]
 ];

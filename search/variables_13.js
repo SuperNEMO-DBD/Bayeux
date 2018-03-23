@@ -36,7 +36,6 @@ var searchData=
   ['sensitive_5ftrack_5foptical_5fphoton',['SENSITIVE_TRACK_OPTICAL_PHOTON',['../classmctools_1_1sensitive__utils.html#ad1f49cf5b1a014be22dfd4abea47b98f',1,'mctools::sensitive_utils']]],
   ['serialization_5ftag',['serialization_tag',['../structbrio_1_1store__info.html#ae967b81fdf4d8ba9d20730b0bd1f2bb8',1,'brio::store_info']]],
   ['service_5fmasters',['service_masters',['../classdatatools_1_1service__entry.html#ae1a5f74f1950100e34256a6a043461db',1,'datatools::service_entry']]],
-  ['service_5fslaves',['service_slaves',['../classdatatools_1_1service__entry.html#a049bcabe32ea36152077ebee59c87a03',1,'datatools::service_entry']]],
   ['settings',['settings',['../structdatatools_1_1configuration_1_1variant__service_1_1config.html#a7a36265645ef0ee0f8b0b719da78d2ee',1,'datatools::configuration::variant_service::config']]],
   ['setup_5ffilenames',['setup_filenames',['../structgeomtools_1_1geomtools__driver__params.html#a36aad22d1a056a204656a0281b172d36',1,'geomtools::geomtools_driver_params']]],
   ['setup_5flabel',['SETUP_LABEL',['../classgeomtools_1_1simple__world__model.html#ad1f0ba07be605a88868f706609c6a468',1,'geomtools::simple_world_model']]],

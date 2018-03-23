@@ -2,7 +2,6 @@ var searchData=
 [
   ['label_5fitem',['label_item',['../structgeomtools_1_1display__data_1_1label__item.html',1,'geomtools::display_data']]],
   ['labels',['labels',['../structdatatools_1_1smart__filename_1_1labels.html',1,'datatools::smart_filename']]],
-  ['led',['led',['../classdatatools_1_1qt_1_1led.html',1,'datatools::qt']]],
   ['library_5finfo',['library_info',['../classdatatools_1_1library__info.html',1,'datatools']]],
   ['library_5floader',['library_loader',['../classdatatools_1_1library__loader.html',1,'datatools']]],
   ['library_5fquery_5fservice',['library_query_service',['../classdatatools_1_1library__query__service.html',1,'datatools']]],

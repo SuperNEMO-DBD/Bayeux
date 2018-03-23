@@ -55,7 +55,6 @@ var searchData=
   ['smart_5fmodulo',['SMART_MODULO',['../classdatatools_1_1properties_1_1config.html#a7fbbaa1bac0e7010090c59ff76f4bdfca9f34d1ba7743d40273a8d90d85f18002',1,'datatools::properties::config']]],
   ['spectrum_5fmode_5fhistpdf',['SPECTRUM_MODE_HISTPDF',['../classgenbb_1_1single__particle__generator.html#a9e99b076ea089ef3ed7d623d0b555a39a4a5924ae5d5d681d23266241972d9235',1,'genbb::single_particle_generator']]],
   ['spectrum_5fmode_5ftabfunc',['SPECTRUM_MODE_TABFUNC',['../classgenbb_1_1single__particle__generator.html#a9e99b076ea089ef3ed7d623d0b555a39abde52ef3fb13f5d44032ed6b146cb959',1,'genbb::single_particle_generator']]],
-  ['square',['Square',['../classdatatools_1_1qt_1_1led.html#abcac77ed4ab4ed8a7537c2a462089af2ab5bf76465436f60386b4eb902176ba80',1,'datatools::qt::led']]],
   ['ss_5finvalid',['SS_INVALID',['../classmctools_1_1digitization_1_1sampled__signal.html#a92e891c6d11df5d90fe839b92fa9bf63a7ea011ecb34e02491a7d1deb2063733d',1,'mctools::digitization::sampled_signal']]],
   ['ss_5foverflow',['SS_OVERFLOW',['../classmctools_1_1digitization_1_1sampled__signal.html#a92e891c6d11df5d90fe839b92fa9bf63a7c1f94a17203663ad63d18c35b825f23',1,'mctools::digitization::sampled_signal']]],
   ['ss_5funderflow',['SS_UNDERFLOW',['../classmctools_1_1digitization_1_1sampled__signal.html#a92e891c6d11df5d90fe839b92fa9bf63af6c94dfbd53fb34fedb5b0a878322299',1,'mctools::digitization::sampled_signal']]],

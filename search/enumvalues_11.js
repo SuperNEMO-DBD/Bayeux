@@ -17,7 +17,6 @@ var searchData=
   ['reader_5fdebug',['reader_debug',['../structdatatools_1_1io.html#ab8f79b312badd565fccb10e33eb994f5a803ca10e7c8c93303fdc5d64a76e26ef',1,'datatools::io']]],
   ['reader_5fno_5fflags',['reader_no_flags',['../structdatatools_1_1io.html#ab8f79b312badd565fccb10e33eb994f5a101cd9c24d35bfe781f6dfebc9e52324',1,'datatools::io']]],
   ['reader_5fstrict_5fquoting',['reader_strict_quoting',['../structdatatools_1_1io.html#ab8f79b312badd565fccb10e33eb994f5a04a0f8155b725f393f2aa3e80f6a3d82',1,'datatools::io']]],
-  ['red',['Red',['../classdatatools_1_1qt_1_1led.html#a2fa488de33e0744fc400d08636a25d51a71d79657d0b24d055c3b69c46476f031',1,'datatools::qt::led']]],
   ['replicant_5faxis_5fnone',['REPLICANT_AXIS_NONE',['../classgeomtools_1_1regular__linear__placement.html#a2f296c726def84c990e764ce60b8df25ad15ff346ea41124b9a2785c339470d4e',1,'geomtools::regular_linear_placement']]],
   ['replicant_5faxis_5fx',['REPLICANT_AXIS_X',['../classgeomtools_1_1regular__linear__placement.html#a2f296c726def84c990e764ce60b8df25aeb4b51995f1cd6c705a6aa1aa663f6cd',1,'geomtools::regular_linear_placement']]],
   ['replicant_5faxis_5fy',['REPLICANT_AXIS_Y',['../classgeomtools_1_1regular__linear__placement.html#a2f296c726def84c990e764ce60b8df25a2dabb84e5cf87d621c7988edc08f7426',1,'geomtools::regular_linear_placement']]],
@@ -35,7 +34,6 @@ var searchData=
   ['rotation_5faxis_5fx',['ROTATION_AXIS_X',['../namespacegeomtools.html#a32148578f1a0bb41700808c45923a3d5af58c69849794450055ec3def6b9440a1',1,'geomtools']]],
   ['rotation_5faxis_5fy',['ROTATION_AXIS_Y',['../namespacegeomtools.html#a32148578f1a0bb41700808c45923a3d5a35d73767c4b62e79d618238b1785c8f2',1,'geomtools']]],
   ['rotation_5faxis_5fz',['ROTATION_AXIS_Z',['../namespacegeomtools.html#a32148578f1a0bb41700808c45923a3d5aecb2386ace8ec14db0be7ee22e351332',1,'geomtools']]],
-  ['rounded',['Rounded',['../classdatatools_1_1qt_1_1led.html#abcac77ed4ab4ed8a7537c2a462089af2a57fc70e092bb482c89a2302517122e84',1,'datatools::qt::led']]],
   ['rw_5fread',['RW_READ',['../classbrio_1_1detail_1_1base__io.html#a38542b42992b54a36a5ec575310a397da6d848b2c95a9f9d82fa054b803a63e47',1,'brio::detail::base_io']]],
   ['rw_5fundefined',['RW_UNDEFINED',['../classbrio_1_1detail_1_1base__io.html#a38542b42992b54a36a5ec575310a397da9abb74e2d9c4d81047c69a63cd35ca90',1,'brio::detail::base_io']]],
   ['rw_5fwrite',['RW_WRITE',['../classbrio_1_1detail_1_1base__io.html#a38542b42992b54a36a5ec575310a397da69c5b973f8993a481c68e4f95a364ef2',1,'brio::detail::base_io']]]

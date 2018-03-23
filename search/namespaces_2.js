@@ -9,8 +9,8 @@ var searchData=
   ['ocd',['ocd',['../namespacedatatools_1_1detail_1_1ocd.html',1,'datatools::detail']]],
   ['parsing',['parsing',['../namespacedatatools_1_1configuration_1_1parsing.html',1,'datatools::configuration']]],
   ['path',['path',['../namespacedatatools_1_1ui_1_1path.html',1,'datatools::ui']]],
-  ['qt',['qt',['../namespacedatatools_1_1qt.html',1,'datatools']]],
   ['reflection',['reflection',['../namespacedatatools_1_1detail_1_1reflection.html',1,'datatools::detail']]],
-  ['ui',['ui',['../namespacedatatools_1_1configuration_1_1ui.html',1,'datatools::configuration::ui'],['../namespacedatatools_1_1ui.html',1,'datatools::ui']]],
+  ['ui',['ui',['../namespacedatatools_1_1configuration_1_1ui.html',1,'datatools::configuration']]],
+  ['ui',['ui',['../namespacedatatools_1_1ui.html',1,'datatools']]],
   ['units',['units',['../namespacedatatools_1_1units.html',1,'datatools']]]
 ];
