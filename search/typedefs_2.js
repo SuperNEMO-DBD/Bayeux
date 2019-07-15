@@ -4,6 +4,7 @@ var searchData=
   ['categories_5fby_5ftype_5fcol_5ftype',['categories_by_type_col_type',['../classgeomtools_1_1id__mgr.html#a4df10e0098a254af8ddaee39d294f589',1,'geomtools::id_mgr']]],
   ['coeff_5fdict_5ftype',['coeff_dict_type',['../classmaterials_1_1refractive__index.html#aa4f00f06bbd7a7f7e093a3979c907012',1,'materials::refractive_index']]],
   ['col_5ftype',['col_type',['../classdatatools_1_1smart__ref.html#a72a0a7a2ed1161dac23d5237f6b1b508',1,'datatools::smart_ref']]],
+  ['color256',['color256',['../namespacedatatools_1_1ui_1_1ansi__colors.html#a2fe1e47e96f11f1c31c1361cb0bd889e',1,'datatools::ui::ansi_colors']]],
   ['color_5fmap_5ftype',['color_map_type',['../classdatatools_1_1dependency__graph_1_1fvocf__visitor.html#a8b89c563a55fd5679921f579957300dd',1,'datatools::dependency_graph::fvocf_visitor::color_map_type()'],['../classgeomtools_1_1color.html#abf5a1f8998afa030ea9ec7f16a0fd519',1,'geomtools::color::color_map_type()']]],
   ['combined_5ffield_5fdict_5ftype',['combined_field_dict_type',['../classemfield_1_1linear__combination__field.html#aa248785e6ff21f9d439838760271ef9c',1,'emfield::linear_combination_field']]],
   ['component_5ftopic_5fdict_5ftype',['component_topic_dict_type',['../classdatatools_1_1urn__info.html#ae3edc934c4cd35e2b73b988714f26468',1,'datatools::urn_info']]],

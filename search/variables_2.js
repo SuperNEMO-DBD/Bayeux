@@ -40,8 +40,8 @@ var searchData=
   ['bit29',['bit29',['../structdatatools_1_1bit__mask.html#a669de231ec2b5cb429fc61cd5260b6ad',1,'datatools::bit_mask']]],
   ['bit30',['bit30',['../structdatatools_1_1bit__mask.html#a6708a3b3579aedc9c809080091b1e7c8',1,'datatools::bit_mask']]],
   ['bit31',['bit31',['../structdatatools_1_1bit__mask.html#a03e325c89c5e52607741b9e352019a7e',1,'datatools::bit_mask']]],
-  ['black',['black',['../structgeomtools_1_1color_1_1constants.html#a705ee66e2b110a552c7d1ea9946b5b89',1,'geomtools::color::constants']]],
-  ['blue',['blue',['../structgeomtools_1_1color_1_1constants.html#a3a2eedbc8ab30767d79bbe439f7f7139',1,'geomtools::color::constants']]],
+  ['black',['black',['../structgeomtools_1_1color_1_1constants.html#a705ee66e2b110a552c7d1ea9946b5b89',1,'geomtools::color::constants::black()'],['../structdatatools_1_1ui_1_1ansi__colors_1_1color__8bits.html#ad4a18654650330a3e7b7312ad4129a75',1,'datatools::ui::ansi_colors::color_8bits::BLACK()']]],
+  ['blue',['blue',['../structgeomtools_1_1color_1_1constants.html#a3a2eedbc8ab30767d79bbe439f7f7139',1,'geomtools::color::constants::blue()'],['../structdatatools_1_1ui_1_1ansi__colors_1_1color__8bits.html#ab08fb6f08de7baa9c37657669162af33',1,'datatools::ui::ansi_colors::color_8bits::BLUE()']]],
   ['blue_5famount',['blue_amount',['../classgeomtools_1_1color.html#a2abd05113bb59acd22836e83bc0b88f1',1,'geomtools::color']]],
   ['bohr_5fmagneton',['bohr_magneton',['../classmygsl_1_1constants_1_1mksa.html#a4d98847bbd4d662f9cd10778c6be0e16',1,'mygsl::constants::mksa::bohr_magneton()'],['../classmygsl_1_1constants_1_1cgsm.html#ae46f4803d7990707936ed98354ff77ab',1,'mygsl::constants::cgsm::bohr_magneton()']]],
   ['bohr_5fradius',['bohr_radius',['../classmygsl_1_1constants_1_1mksa.html#a52eeb895a9ed883a5b1a20acd1416ca9',1,'mygsl::constants::mksa::bohr_radius()'],['../classmygsl_1_1constants_1_1cgsm.html#ac29496938c30c7b7308ca2da98320d98',1,'mygsl::constants::cgsm::bohr_radius()']]],
@@ -51,6 +51,5 @@ var searchData=
   ['brown',['brown',['../structgeomtools_1_1color_1_1constants.html#afa4ece15fd6c9d7a78ed685fe81a34c1',1,'geomtools::color::constants']]],
   ['btu',['btu',['../classmygsl_1_1constants_1_1mksa.html#a58ac2c1e1d0ef910c23aa5fecdb3529a',1,'mygsl::constants::mksa::btu()'],['../classmygsl_1_1constants_1_1cgsm.html#aaf9e873cfb47e8c730b6a13a22cb70a6',1,'mygsl::constants::cgsm::btu()']]],
   ['buffer',['buffer',['../structbrio_1_1store__info.html#a92bb310a8d079255d6e90ecefeb76eab',1,'brio::store_info']]],
-  ['buffer_5f',['buffer_',['../classdatatools_1_1handle__pool.html#a9c9b3b6bf662e63002861a549aa6fb92',1,'datatools::handle_pool']]],
   ['bufsize',['bufsize',['../structbrio_1_1store__info.html#ac2455dd215883a8055cde2321ca78d2f',1,'brio::store_info']]]
 ];

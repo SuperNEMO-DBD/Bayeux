@@ -33,15 +33,11 @@ var searchData=
   ['xml',['xml',['../classdatatools_1_1io__factory.html#a8b88feae1e3c284611f4d27d03dfb249a2c166bd162c41c7db5843480ed16cfb8',1,'datatools::io_factory']]],
   ['xml_5fextension',['xml_extension',['../structdatatools_1_1io__factory_1_1format.html#a25c96550037a9e47c41c54b15cb8e321',1,'datatools::io_factory::format']]],
   ['xml_5fheader',['xml_header',['../classgeomtools_1_1gdml__writer.html#a7b93d82c14574b5373718d84d49fa168',1,'geomtools::gdml_writer']]],
-  ['xnor_5fcut',['xnor_cut',['../classcuts_1_1xnor__cut.html#a5d53140db1c59940275573a3672d1ab9',1,'cuts::xnor_cut']]],
-  ['xnor_5fcut',['xnor_cut',['../classcuts_1_1xnor__cut.html',1,'cuts']]],
+  ['xnor_5fcut',['xnor_cut',['../classcuts_1_1xnor__cut.html',1,'cuts::xnor_cut'],['../classcuts_1_1xnor__cut.html#a5d53140db1c59940275573a3672d1ab9',1,'cuts::xnor_cut::xnor_cut()']]],
   ['xnor_5fcut_2eh',['xnor_cut.h',['../xnor__cut_8h.html',1,'']]],
-  ['xor_5fcut',['xor_cut',['../classcuts_1_1xor__cut.html#a9804cc18f58f2629c65e7088b9f7b890',1,'cuts::xor_cut']]],
-  ['xor_5fcut',['xor_cut',['../classcuts_1_1xor__cut.html',1,'cuts']]],
+  ['xor_5fcut',['xor_cut',['../classcuts_1_1xor__cut.html',1,'cuts::xor_cut'],['../classcuts_1_1xor__cut.html#a9804cc18f58f2629c65e7088b9f7b890',1,'cuts::xor_cut::xor_cut()']]],
   ['xor_5fcut_2eh',['xor_cut.h',['../xor__cut_8h.html',1,'']]],
-  ['xor_5flogic',['xor_logic',['../classdatatools_1_1configuration_1_1xor__logic.html',1,'datatools::configuration']]],
-  ['xor_5flogic',['xor_logic',['../classdatatools_1_1configuration_1_1xor__logic.html#aa1c0c7e93efdcb48aa23b324cbc513be',1,'datatools::configuration::xor_logic']]],
+  ['xor_5flogic',['xor_logic',['../classdatatools_1_1configuration_1_1xor__logic.html',1,'datatools::configuration::xor_logic'],['../classdatatools_1_1configuration_1_1xor__logic.html#aa1c0c7e93efdcb48aa23b324cbc513be',1,'datatools::configuration::xor_logic::xor_logic()']]],
   ['xsigma',['xsigma',['../classmygsl_1_1histogram__2d.html#a5861c49dce403d0912f3aea1b1df5242',1,'mygsl::histogram_2d']]],
-  ['xyz_5frange',['xyz_range',['../structgeomtools_1_1gnuplot__draw_1_1xyz__range.html#a7a7be0085010e7ff2b359627380c246a',1,'geomtools::gnuplot_draw::xyz_range']]],
-  ['xyz_5frange',['xyz_range',['../structgeomtools_1_1gnuplot__draw_1_1xyz__range.html',1,'geomtools::gnuplot_draw']]]
+  ['xyz_5frange',['xyz_range',['../structgeomtools_1_1gnuplot__draw_1_1xyz__range.html',1,'geomtools::gnuplot_draw::xyz_range'],['../structgeomtools_1_1gnuplot__draw_1_1xyz__range.html#a7a7be0085010e7ff2b359627380c246a',1,'geomtools::gnuplot_draw::xyz_range::xyz_range()']]]
 ];

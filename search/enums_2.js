@@ -4,6 +4,7 @@ var searchData=
   ['code_5ftype',['code_type',['../classgeomtools_1_1color.html#abfe417740ca43d098f7b9fefc8c5027a',1,'geomtools::color']]],
   ['coef_5findex',['coef_index',['../classgeomtools_1_1quadric.html#a7686c5ac0f61898dda5029e1d828bb72',1,'geomtools::quadric']]],
   ['collection_5ftype',['collection_type',['../classmctools_1_1simulated__data.html#acd3ecee7890c74beda1906985a49b9a5',1,'mctools::simulated_data']]],
+  ['column_5findex',['column_index',['../classdatatools_1_1configuration_1_1ui_1_1tree__item.html#a1aacdb25086d7183021c044151966757',1,'datatools::configuration::ui::tree_item']]],
   ['compare_5fresult_5ftype',['compare_result_type',['../namespacedatatools.html#a7291f91b21e9a80377c09180b005c229',1,'datatools']]],
   ['compare_5fscore_5ftype',['compare_score_type',['../namespacemygsl.html#afbdec76a100ff5ac0692a389a27f4069',1,'mygsl']]],
   ['component_5fshape_5ftype',['component_shape_type',['../classgeomtools_1_1i__composite__shape__3d.html#af5be7fa68438783892abb4c5aba43110',1,'geomtools::i_composite_shape_3d']]],

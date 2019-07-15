@@ -9,6 +9,7 @@ var searchData=
   ['shape_5fdomain_5fflags_5ftype',['shape_domain_flags_type',['../namespacegeomtools.html#aa7331b235071b143372c83619cd659b1',1,'geomtools']]],
   ['side_5f2d_5ftype',['side_2d_type',['../namespacegeomtools.html#ac00f18cb79ba2285b31ac2f9ccc0355f',1,'geomtools']]],
   ['simple_5fpolygon_5fwires_5frendering_5foption_5ftype',['simple_polygon_wires_rendering_option_type',['../classgeomtools_1_1simple__polygon.html#acd1ad7c84743e1b4697ed542dba81d3a',1,'geomtools::simple_polygon']]],
+  ['slice_5fmode_5ftype',['slice_mode_type',['../classgenbb_1_1time__slicer__generator.html#a2e11913845c4194fd75521a6d491ec0f',1,'genbb::time_slicer_generator']]],
   ['slicing_5fbits',['slicing_bits',['../classmctools_1_1digitization_1_1sampled__signal.html#affbe6867b42a781c7f16db4c94816297',1,'mctools::digitization::sampled_signal']]],
   ['smart_5fprint_5fflags_5ftype',['smart_print_flags_type',['../classgeomtools_1_1mapping.html#a4e6d96d1e349099fb8b1389d79d0da2a',1,'geomtools::mapping']]],
   ['special_5frotation_5fangle_5ftype',['special_rotation_angle_type',['../namespacegeomtools.html#ab689792afe1676d4f8a2ea3a19f40743',1,'geomtools']]],

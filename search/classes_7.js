@@ -2,6 +2,7 @@ var searchData=
 [
   ['g4_5fprng',['g4_prng',['../classmctools_1_1g4_1_1g4__prng.html',1,'mctools::g4']]],
   ['gate_5ffunction',['gate_function',['../classmygsl_1_1gate__function.html',1,'mygsl']]],
+  ['gauss_5fkernel_5fsmoother',['gauss_kernel_smoother',['../classmygsl_1_1gauss__kernel__smoother.html',1,'mygsl']]],
   ['gaussian_5ffunction',['gaussian_function',['../classmygsl_1_1gaussian__function.html',1,'mygsl']]],
   ['gdml_5fexport',['gdml_export',['../classgeomtools_1_1gdml__export.html',1,'geomtools']]],
   ['gdml_5fwriter',['gdml_writer',['../classgeomtools_1_1gdml__writer.html',1,'geomtools']]],
@@ -12,8 +13,7 @@ var searchData=
   ['genvtx_5fdriver_5fparams',['genvtx_driver_params',['../structgenvtx_1_1genvtx__driver__params.html',1,'genvtx']]],
   ['geom_5fid',['geom_id',['../classgeomtools_1_1geom__id.html',1,'geomtools']]],
   ['geom_5finfo',['geom_info',['../classgeomtools_1_1geom__info.html',1,'geomtools']]],
-  ['geom_5fmap',['geom_map',['../classgeomtools_1_1geom__map.html',1,'geomtools']]],
-  ['geom_5fmap',['geom_map',['../classemfield_1_1geom__map.html',1,'emfield']]],
+  ['geom_5fmap',['geom_map',['../classgeomtools_1_1geom__map.html',1,'geomtools::geom_map'],['../classemfield_1_1geom__map.html',1,'emfield::geom_map']]],
   ['geometry_5fcontext',['geometry_context',['../classgenvtx_1_1vertex__validation_1_1geometry__context.html',1,'genvtx::vertex_validation']]],
   ['geometry_5fservice',['geometry_service',['../classgeomtools_1_1geometry__service.html',1,'geomtools']]],
   ['geomtools_5fdriver',['geomtools_driver',['../classgeomtools_1_1geomtools__driver.html',1,'geomtools']]],

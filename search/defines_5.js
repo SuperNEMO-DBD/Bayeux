@@ -37,6 +37,8 @@ var searchData=
   ['geomtools_5fencode_5fversion',['GEOMTOOLS_ENCODE_VERSION',['../geomtools_2version_8h.html#a8d84c658c427dd8720507ad9dc8cd903',1,'version.h']]],
   ['geomtools_5fenv_5fresource_5fdir',['GEOMTOOLS_ENV_RESOURCE_DIR',['../geomtools__config_8h.html#a53c5626aa12ad21947daaf33db709290',1,'geomtools_config.h']]],
   ['geomtools_5fgdml_5fschema_5flocal_5fpath',['GEOMTOOLS_GDML_SCHEMA_LOCAL_PATH',['../geomtools__config_8h.html#ad8539892044faf708dfe6e7f30db4631',1,'geomtools_config.h']]],
+  ['geomtools_5fhit_5fregistration_5fimplement',['GEOMTOOLS_HIT_REGISTRATION_IMPLEMENT',['../base__hit_8h.html#a8bfaa1046497ca1f2197e255b2828b58',1,'base_hit.h']]],
+  ['geomtools_5fhit_5fregistration_5finterface',['GEOMTOOLS_HIT_REGISTRATION_INTERFACE',['../base__hit_8h.html#ac66012ebc752e93f7533a2d2a4fb76de',1,'base_hit.h']]],
   ['geomtools_5fis_5fat_5fleast',['GEOMTOOLS_IS_AT_LEAST',['../geomtools_2version_8h.html#a976a20cf8eaf844682a6567da37cc9cf',1,'version.h']]],
   ['geomtools_5flib_5fversion',['GEOMTOOLS_LIB_VERSION',['../geomtools_2version_8h.html#a46d857f6323869137035e39b1906837c',1,'version.h']]],
   ['geomtools_5fmodel_5fat_5fconstruct_5fimpl_5fhead',['GEOMTOOLS_MODEL_AT_CONSTRUCT_IMPL_HEAD',['../model__macros_8h.html#ad2ea403ce8b382528af15cd49683826a',1,'model_macros.h']]],

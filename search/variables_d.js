@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['magenta',['magenta',['../structgeomtools_1_1color_1_1constants.html#a4167539f7bbb349e487d4c3e4d3a7e32',1,'geomtools::color::constants']]],
-  ['magic_5fbyte',['magic_byte',['../namespaceeos.html#a2b914ee3cd010de929b74c407657bc71',1,'eos']]],
+  ['magenta',['magenta',['../structgeomtools_1_1color_1_1constants.html#a4167539f7bbb349e487d4c3e4d3a7e32',1,'geomtools::color::constants::magenta()'],['../structdatatools_1_1ui_1_1ansi__colors_1_1color__8bits.html#ad24e6ab64f796fd55abff69407139c0e',1,'datatools::ui::ansi_colors::color_8bits::MAGENTA()']]],
+  ['magic_5fbyte',['magic_byte',['../namespaceboost_1_1archive.html#a3c8c05da3c81a98d62a8c5c784ea57e6',1,'boost::archive']]],
   ['magnetic_5ffield_5flabel',['MAGNETIC_FIELD_LABEL',['../classemfield_1_1base__electromagnetic__field.html#a26fb904f361e5ace7bcc99d497a11d77',1,'emfield::base_electromagnetic_field']]],
   ['major_5ftrack_5fflag',['MAJOR_TRACK_FLAG',['../classmctools_1_1track__utils.html#ac2a5dd824604197f9c01f30eba159fc1',1,'mctools::track_utils']]],
   ['manager_5fconfig_5ffilename',['manager_config_filename',['../structmctools_1_1g4_1_1manager__parameters.html#a048135f0daf77251106be72c7a2ebc17',1,'mctools::g4::manager_parameters']]],
